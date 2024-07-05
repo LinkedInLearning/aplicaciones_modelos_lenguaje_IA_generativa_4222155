@@ -1,4 +1,4 @@
-# Nombre final del curso
+# Aplicaciones con Modelos de Lenguaje: Crea tu propio asistente de IA generativa
 
 Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
