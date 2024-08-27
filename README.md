@@ -1,12 +1,12 @@
 # Aplicaciones con Modelos de Lenguaje: Crea tu propio asistente de IA generativa
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Aplicaciones con Modelos de Lenguaje: Crea tu propio asistente de IA generativa`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
-DESCRIPCIÓN DEL CURSO
+Crea tu propio asistente de chatbot personalizado utilizando modelos de lenguaje avanzados. Aprende a desarrollar un chatbot inteligente que responda preguntas basadas en los datos de tu organización y a integrar plugins personalizables para tareas como recuperación de datos y soporte al cliente. Este curso práctico te guiará paso a paso en la implementación de soluciones de procesamiento del lenguaje natural. Dirigido a desarrolladores, ingenieros de software y estudiantes de ciencias de la computación, este curso te equipará con las habilidades necesarias para aprovechar al máximo los grandes modelos de lenguaje.
 
 ## Instrucciones
 
