@@ -1,0 +1,15 @@
+{
+  "requests": [
+    {
+      "request_id": "REQ-b91f90d696",
+      "created_at": "2026-01-17T02:08:02.111209Z",
+      "request_type": "software_install",
+      "requester_email": "usuario@empresa.com",
+      "priority": "medium",
+      "summary": "Instalación de Docker en portátil corporativo",
+      "details": "El usuario necesita instalar Docker en su portátil corporativo para un proyecto. Solicitud confirmada por el usuario.",
+      "state": "created",
+      "dedupe_key": "email-9999"
+    }
+  ]
+}
